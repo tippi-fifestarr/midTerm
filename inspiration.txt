@@ -1,0 +1,112 @@
+ideally, i can have a text reader to frame these files.
+
+parents: story of joseph. apologize for not directly listening to them. ask to hear what their expectations were and what they think their kid got from it.  offer 1 to 1 for student + recording, if homework = done.
+
+students: story of the class, offer above; skill level is not as important is curiousity to learn and desire to get better.  
+barbara: story of 2020 census
+
+☀️ inspiration (clear brain up and mindset adjust) / 🌒 game (quiz & activities)
+
+const inspirations = ["https://www.youtube.com/watch?v=9vJRopau0g0","https://www.youtube.com/watch?v=KFVdHDMcepw", ]
+
+courage to be wholeheartedly _(${artistname})_:
+
+many people have an unhealthy concept of "failure"; in my mind, Master Yoda has very tasty words to say to his Student (Luke):
+
+    1. The litany: “Fear is the path to the dark side. Fear leads to anger. Anger leads to hate. Hate leads to suffering.” 
+    2. Believe : "[Luke Skywalker:] I can’t believe it. [Yoda:] That is why you fail."
+    3. Teachers Job:   "The greatest teacher, failure is."
+    4. The context: “Heeded my words not, did you? Pass on what you have learned. Strength. Mastery. But weakness, folly, failure also. Yes, failure most of all. The greatest teacher, failure is. Luke, we are what they grow beyond. That is the true burden of all masters.”
+    5. On what is training: "Train yourself to let go of everything you fear to lose."
+
+great success!:
+what was so great? 20 hours spent with a music producer, even if he is "just" babysitting.
+
+
+jumbled & puzzling:
+on reflection, the truth is that elements of WC&MP were out of order.
+everyone has responsibility = 人人有责
+here are the ways that I failed to anticipate a "Point of Failure."
+    the first failure is: "notes" (moments or choices) in wrong order.
+        example: downloading ableton (before class begins) 
+        example: schedule & commit to HOW MUCH homework time and ableton free-play (day one!)
+    the second failure is:  not making this puzzle more fun/funny (website: icon / choices!)
+        solution:
+            //IconChoicesUniversityPortal.HTML === hero is split L / R , big icon, string input box, number input box, and "BET" button.
+            //choose one icon (by naming it or guessing which day and pressing submit)
+            //get boxOfIconObjects == {?} from mongodb 
+                //iterate through each _dayX__.html, array named dayX from _(dayX)_.html in the boxOfIconObjects
+                //scan through html, 
+                //  each icon becomes an object, 
+                //if next element is text then wrap the text around it and name it "string" within the icon, 
+                //    otherwise make a new icon obj.  
+                //good job!  
+                //      celebrate if its safe.  stretch yourself.  
+                //send boxOfIconObjects to mongodb
+            //each icon is randomly presented.  clever way to check the day is to?
+            //after selecting "bet", the icon becomes centered, 
+                //below it is two choices, 
+                //write a memory "comment" about it 
+                //  or  give it stars 0-5 for "challenging", "confusing", "good job"
+                //after finished, return to main screen (choose from 2 icons) 
+
+expectations:
+We all had different expectations going into it: I expected eager students who do the homework and can communicate in my language.
+therefore, i found it reasonable to promise each student could have made a whole track by the end.
+what did my students and parents and school and boss expect?
+active learning, self-activated (limitless & enduring growth, slow and difficult)
+-vs-
+passive learning, one-directional data flow (easy, boring)
+In my mind the most stable triad is parents:students:teachers
+if each of these voices are present and honored, 
+this balance produces more optimized outcomes.
+
+From watching the videos and remembering how things fell apart i wonder what I know to be true and good about all this?
+
+    the third failure is: the parents must interact (see, speak, write, read and listen; if language barrier, find someone to translate) at beginning, middle?, and end.
+    the fourth failure is: when promising an outcome, make it clear that it is dependent on their adaptation to my method.  
+
+
+missing vocabulary:
+"rounds". on day one, t introduces: rounds of books.  rounds.os __OSC__
+stacks of books.  how to pump up their minds? Or in fact, find out what thier mind is filled with?   
+language limitations.  solution? (X must be the first audience, and focused as much as necessary)
+flipped classroom.  classtime is for "doing __reverb__" and "making __(noun)__" (like a status message per "round")
+
+    the fifth failure is: not enough mutual understand and adaptation to share rituals
+    the fifth solution: more long form sharing (telling story, teaching us, introducing each other) and better entry and midterm survey. 
+
+
+clear metrics: 
+homework; do they do it all (and more?)?
+participation; what do they bring? how do they interact?
+final project; pass/fail 
+awkward silence; ...
+unclear metrics predictable from clear metrics: adaptation, characteristics?, 
+
+const documentViewer => {
+    //recursive third step : conditional (success)
+} 
+
+technical support:
+clearly there will be technical issues, how can we solve the problems? 
+I researched on Wikipedia and found there are more than 2 Tiers of Technical Support: 
+"The first job of a Tier I specialist is to gather the customer's information and to determine the customer's issue by analyzing the symptoms and figuring out the underlying problem.[6] When analyzing the symptoms, it is important for the technician to identify what the customer is trying to accomplish so that time is not wasted on "attempting to solve a symptom instead of a problem." [6]
+
+This level should gather as much information as possible from the end user. The information could be computer system name, screen name or report name, error or warning message displayed on the screen, any logs files, screen shots, any data used by the end user or any sequence of steps used by the end user, etc. This information needs to be recorded into the issue tracking or issue logging system. This information is useful to analyze the symptoms to define the problem or issue.[citation needed]
+
+Once identification of the underlying problem is established, the specialist can begin sorting through the possible solutions available."
+
+A Tier 2 is a specialist and costs more. I guess Tier 0 is asking yourself to spend xxxx seconds working on the problem.
+
+I did my best to gather information and we all saw different levels of success.
+my failure was that i didn't hire or make the school hire a native speaker with appropriate expertise, such as Miki Wong or Jay (itsogoo). 
+
+survey:
+How strongly do you agree with this statement?
+
+"in WC&MP, I learned something that totally changed the way I thought about something"
+Strongly disagree
+Disagree
+Agree
+Strongly agree
